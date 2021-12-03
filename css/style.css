@@ -34,6 +34,11 @@ body {
     letter-spacing: 0.03em;
 }
 
+
+.header {
+    border: 1px solid #ECECEC;
+} 
+
 .main-nav {
     display: flex;
     align-items: center;
